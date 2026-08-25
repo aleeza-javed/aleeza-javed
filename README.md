@@ -2,7 +2,7 @@
 
 ### BS Computer Science Student | AI • IoT • Edge AI
 
-I am a final-year Computer Science student at **COMSATS University Islamabad, Abbottabad Campus**, interested in Artificial Intelligence, IoT, and intelligent embedded systems.
+I am a final-Semester Computer Science student at **COMSATS University Islamabad, Abbottabad Campus**, interested in Artificial Intelligence, IoT, and intelligent embedded systems.
 
 ## 🔬 Research Interests
 
