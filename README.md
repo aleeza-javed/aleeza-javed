@@ -2,49 +2,47 @@
 
 ### BS Computer Science Student | AI • IoT • Edge AI
 
-I am a final-Semester Computer Science student at **COMSATS University Islamabad, Abbottabad Campus**, interested in Artificial Intelligence, IoT, and intelligent embedded systems.
-
-## 🔬 Research Interests
-
-- Edge AI & Embedded Intelligence
-- AIoT & Intelligent IoT Systems
-- IoT & Sensor-Based Systems
-- Intelligent Sensing
-- Machine Learning
-- Wireless Sensor Networks
-- Smart Agriculture
-- Computer Networks
+Final-semester Computer Science student at **COMSATS University Islamabad, Abbottabad Campus**.
 
 ## 🛠️ Technical Skills
 
-**Programming:** Python, C, Java, C#, Dart
+### Languages
 
-**AI & Machine Learning:** Machine Learning, Random Forest, Data Preprocessing
+[![Languages](https://skillicons.dev/icons?i=python,c,java,cs,dart)](https://skillicons.dev)
 
-**IoT & Embedded:** ESP32, Arduino, Sensors, UART, RS485, LoRa
+### AI & Machine Learning
 
-**Development:** Flutter, Firebase, Git, GitHub
+[![AI & ML](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 
-**Networking:** Wi-Fi, HTTP, Bluetooth, LoRa
+`Machine Learning` • `Random Forest` • `Data Preprocessing` • `Model Evaluation`
 
-**Tools:** VS Code, Android Studio, Arduino IDE, Wokwi, Tinkercad
+### IoT & Embedded Systems
+
+[![IoT](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev)
+
+`ESP32` • `Arduino` • `Sensors` • `UART` • `RS485` • `LoRa`
+
+### Frameworks & Development
+
+[![Development](https://skillicons.dev/icons?i=flutter,firebase)](https://skillicons.dev)
+
+### Networking
+
+`Wi-Fi` • `HTTP` • `Bluetooth` • `LoRa`
+
+### Tools & Platforms
+
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,androidstudio,arduino)](https://skillicons.dev)
+
+`Wokwi` • `Tinkercad` • `Fritzing` • `Draw.io`
+
+## 📚 Education
+
+**BS Computer Science**  
+COMSATS University Islamabad, Abbottabad Campus
 
 ## 📫 Connect With Me
 
-- **LinkedIn:** [Aleeza Javed](https://www.linkedin.com/in/aleeza-javed/)
-- **Email:** [aleezajaved.pk@gmail.com](mailto:aleezajaved.pk@gmail.com)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aleeza-javed/)
 
-<!--
-**aleeza-javed/aleeza-javed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📧 **Email:** [aleezajaved.pk@gmail.com](mailto:aleezajaved.pk@gmail.com)
