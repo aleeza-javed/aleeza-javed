@@ -6,22 +6,22 @@ Final-semester Computer Science student at **COMSATS University Islamabad, Abbot
 
 ## Technical Skills
 
-### Programming Languages
+### 1) Programming Languages
 Python • C • Java • C# • Dart
 
-### AI & Machine Learning
+### 2) AI & Machine Learning
 Machine Learning • Random Forest • Data Preprocessing • Model Evaluation
 
-### IoT & Embedded Systems
+### 3) IoT & Embedded Systems
 ESP32 • Arduino • Sensors • UART • RS485 • LoRa
 
-### Frameworks & Development
+### 4) Frameworks & Development
 Flutter • Firebase
 
-### Networking
+### 5) Networking
 Wi-Fi • HTTP • Bluetooth • LoRa
 
-### Tools & Platforms
+### 6) Tools & Platforms
 Git • GitHub • VS Code • Android Studio • Arduino IDE • Wokwi • Tinkercad • Fritzing • Draw.io
 
 ## Education
